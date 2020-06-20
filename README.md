@@ -1,1 +1,1 @@
-# TechStack App on REDUX
+# RN TechStack App on REDUX
