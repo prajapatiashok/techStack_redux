@@ -49,7 +49,6 @@ const styles = {
 }
 
 const mapStateToProps = (state, ownProps) => {
-    //ownProps is the object jasko value ===> ListItem ma aru components bata pass gareko data as a props
     const expanded = state.selectedLibraryId === ownProps.library.id;
     return { expanded }
 }
